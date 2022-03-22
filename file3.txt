@@ -1,3 +1,0 @@
-This is master branch of file3
-This is feature1 branch of file3
-This is feature2 branch of file3
