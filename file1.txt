@@ -1,3 +1,0 @@
-This is the first commit
-This is feature1 commit
-This is feature2 commit
